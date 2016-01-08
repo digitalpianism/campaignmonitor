@@ -1,0 +1,16 @@
+{
+  "name": "digitalpianism/campaignmonitor",
+  "type": "magento-module",
+  "license":"OSL-3.0",
+  "description":"Campaign Monitor module for Magento with API V3 and OAuth2",
+  "require": {
+    "php": ">=5.3",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors":[
+    {
+      "name":"Raphael Petrini",
+      "email":"contact@digital-pianism.com"
+    }
+  ]
+}

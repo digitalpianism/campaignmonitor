@@ -1,6 +1,7 @@
-app/code/community/DigitalPianism/CampaignMonitor            app/code/community/DigitalPianism/CampaignMonitor           
-app/design/adminhtml/default/default/template/digitalpianism app/design/adminhtml/default/default/template/digitalpianism
-app/design/frontend/base/default/layout/digitalpianism       app/design/frontend/base/default/layout/digitalpianism      
-app/design/frontend/base/default/template/digitalpianism     app/design/frontend/base/default/template/digitalpianism    
-app/etc/modules/DigitalPianism_CampaignMonitor.xml           app/etc/modules/DigitalPianism_CampaignMonitor.xml          
-lib/createsend                                               lib/createsend                                              
+# DigitalPianism_CampaignMonitor
+app/code/community/DigitalPianism/CampaignMonitor                               app/code/community/DigitalPianism/CampaignMonitor
+app/design/adminhtml/default/default/template/digitalpianism/campaignmonitor    app/design/adminhtml/default/default/template/digitalpianism/campaignmonitor
+app/design/frontend/base/default/layout/digitalpianism/campaignmonitor.xml      app/design/frontend/base/default/layout/digitalpianism/campaignmonitor.xml
+app/design/frontend/base/default/template/digitalpianism/campaignmonitor        app/design/frontend/base/default/template/digitalpianism/campaignmonitor
+app/etc/modules/DigitalPianism_CampaignMonitor.xml                              app/etc/modules/DigitalPianism_CampaignMonitor.xml
+lib/createsend                                                                  lib/createsend
